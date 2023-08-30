@@ -1,5 +1,5 @@
 console.log("hola como estas")
-let NumeroRandom = Math.round(Math.random() * 10) + 1;
+let NumeroRandom = Math.round(Math.random() * 10);
 
 let NumeroDeIntentos = 0;
 let NumeroAdivinado = false;
